@@ -6,7 +6,9 @@ is_contact: true
 <center> Denoted for lab members (<U>underline</U>) only: <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author  </center>
 
 ## 2021
-* DAJUNG SUNG, **Bumhee Park**<sup>†</sup>, Min-Hyeon Park, Bora Kim, Hayeon Kim, Kyu-In Jung, Seung-Yup Lee, Bung-Nyun Kim and Subin Park. Gray Matter Volume in the Developing Frontal Lobe and Its Relationship with Executive Function in Late Childhood and Adolescence: a community-based study. _Frontiers in Psychiatry_, _In Press_.
+* Dajung Sung, **Bumhee Park**<sup>†</sup>, Min-Hyeon Park, Bora Kim, Hayeon Kim, Kyu-In Jung, Seung-Yup Lee, Bung-Nyun Kim and Subin Park. Gray Matter Volume in the Developing Frontal Lobe and Its Relationship with Executive Function in Late Childhood and Adolescence: a community-based study. _Frontiers in Psychiatry_, _In Press_.
+
+* Jung-Taek Kim, Dong hoon Lee, Han-Dong Lee, <U>Han-Bit Shin</U>, **Bumhee Park**, Sunghoon Park and Hyung Keun Song. Validity of the EOS-determined pelvic parameters and orientation with pelvic positional variation: a phantom study. _Scientific Reports_, 2021, May; 11(10468). \[[link](https://www.nature.com/articles/s41598-021-89958-y)\]  
 
 * Byung Jin Choi, Yeryung Koo, Tae Young Kim, Wou Young Chung, Yun Jung Jung, Ji Eun Park, Hong-Seok Lim, **Bumhee Park**<sup>*</sup>, Dukyong Yoon. Risk of QT Prolongation through Drug Interactions between Hydroxychloroquine and Concomitant Drugs Prescribed in Real World Practice. _Scientific Reports_, 2021, March; 11(6918). \[[link](https://www.nature.com/articles/s41598-021-86321-z)\]  
 
