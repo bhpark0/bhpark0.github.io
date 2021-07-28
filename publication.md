@@ -3,8 +3,10 @@ layout: default
 is_contact: true
 ---
 
-Denoted for lab members (<U>underline</U>) only 
+Denoted for lab members (<U>underline</U>) only
+
 <sup>†</sup>: equal contribution (co-first)
+
 <sup>*</sup>: correspondence/co-correspondence
 
 ## 2021
