@@ -3,9 +3,11 @@ layout: default
 is_contact: true
 ---
 
-<center> <sup>†</sup>: Co-first author, <sup>*</sup>: Corresponding author - denoted for lab members (<U>underline</U>) only  </center>
+<center> <sup>†</sup>: Equal contribution (co-first), <sup>*</sup>: Corresponding author - denoted for lab members (<U>underline</U>) only  </center>
 
 ## 2021
+* Tae-Hyeong Kim, Eunhye Choi, Hayeon Kim, Shin-Young Kim, Yeeun Kim, Bung-Nyun Kim, Subin Park, Kyu-In Jung, **Bumhee Park**<sup>*</sup>, Min-Hyeon Park. The association between hippocampal volume and level of attention in children and adolescents. _Frontiers in Systems Neuroscience_. _Accepted_.
+
 * Hayeon Kim, **Bumhee Park**<sup>†</sup>, Shin-Young Kim, Jiyea Kim, Bora Kim, Kyu-In Jung, Seung-Yup Lee, Yerin Hyun, Bung-Nyun Kim, Subin Park, Min-Hyeon Park. Cerebellar Gray Matter Volume and its Role in Executive Function, and Attention: Sex Differences by Age in Adolescents. _Clinical Psychopharmacology and Neuroscience_. _Accepted_.
 
 * Dajung Sung, **Bumhee Park**<sup>†</sup>, Min-Hyeon Park, Bora Kim, Hayeon Kim, Kyu-In Jung, Seung-Yup Lee, Bung-Nyun Kim and Subin Park. Gray Matter Volume in the Developing Frontal Lobe and Its Relationship with Executive Function in Late Childhood and Adolescence: a community-based study. _Frontiers in Psychiatry_, 2021, July; 12(686174). \[[link](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.686174/full)\]
