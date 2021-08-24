@@ -3,9 +3,7 @@ layout: default
 is_contact: true
 ---
 
-Contribution by our lab members 
-
-- <U>Underline</U> or **BOLD text**: All authors 
+Contributions of our lab members (<U>Underline</U> or **BOLD text**) are denoted by  
 
 - <sup>†</sup>: equal contribution (co-first)
 
