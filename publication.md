@@ -3,7 +3,9 @@ layout: default
 is_contact: true
 ---
 
-Lab members (<U>underline</U> or BOLD text) are denoted by
+Contribution by our lab members 
+
+<U>underline</U> or **BOLD text**: All authors 
 
 <sup>†</sup>: equal contribution (co-first)
 
